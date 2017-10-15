@@ -29,15 +29,15 @@ config.logger = {
 
 // ClashRoyale API
 config.api = {
-  url: "http://www.clashapi.xyz",
+  url: "",
   token: "",
 }
 
 // Discord
 config.discord = {
   prefix: "!",
-  token: "MzY5MTA3MzEzNjM5ODE3MjE2.DMTuIA.HkqiOHTBVFsyedTblyVEy2DKZ1Q",
-  ownerID: "299524510313611264",
+  token: "",
+  ownerID: "",
   admins: [],
   support: [],
   defaultSettings: {
