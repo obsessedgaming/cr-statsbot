@@ -1,3 +1,4 @@
+/*Testing repos*/
 const config = require('./config')
 const Discord = require('discord.js')
 const Manager = new Discord.ShardingManager('./statsbot.js', {
